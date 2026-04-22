@@ -13,6 +13,10 @@ class Person
 	{
 		return this._name;
 	}
+	get get_age
+	{
+		return this._age;
+	}
 }
 
 class Student extends Person {
