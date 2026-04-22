@@ -9,11 +9,11 @@ class Person
 	{
 		this._age = age;
 	}
-	get get_name 
+	get get_name() 
 	{
 		return this._name;
 	}
-	get get_age
+	get get_age()
 	{
 		return this._age;
 	}
